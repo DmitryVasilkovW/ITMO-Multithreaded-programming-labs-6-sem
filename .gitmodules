@@ -1,0 +1,18 @@
+[submodule "Possible-Executions-Analysis"]
+	path = Possible-Executions-Analysis
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Possible-Executions-Analysis.git
+[submodule "Michael-Scott-Queue"]
+	path = Michael-Scott-Queue
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Michael-Scott-Queue.git
+[submodule "Treiber-Stack-with-Elimination"]
+	path = Treiber-Stack-with-Elimination
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Treiber-Stack-with-Elimination.git
+[submodule "Lamport-Lock-Fail"]
+	path = Lamport-Lock-Fail
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Lamport-Lock-Fail.git
+[submodule "Fine-Grained-Bank"]
+	path = Fine-Grained-Bank
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Fine-Grained-Bank.git
+[submodule "Monotonic-Clock"]
+	path = Monotonic-Clock
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Monotonic-Clock.git
