@@ -22,3 +22,12 @@
 [submodule "Flat-Combining-Queue"]
 	path = Flat-Combining-Queue
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Flat-Combining-Queue.git
+[submodule "Read-Write-Bank"]
+	path = Read-Write-Bank
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Read-Write-Bank.git
+[submodule "MCS-Lock"]
+	path = MCS-Lock
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-MCS-Lock.git
+[submodule "CASN"]
+	path = CASN
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-CASN.git
