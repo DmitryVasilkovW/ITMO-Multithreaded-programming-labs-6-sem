@@ -46,3 +46,6 @@
 [submodule "15-Dynamic-Array"]
 	path = 15-Dynamic-Array
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Dynamic-Array.git
+[submodule "16-Dynamic-Array"]
+	path = 16-Dynamic-Array
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Dynamic-Array.git
