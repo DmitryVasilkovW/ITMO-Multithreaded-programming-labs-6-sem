@@ -16,3 +16,33 @@
 [submodule "05-Fine-Grained-Bank"]
 	path = 05-Fine-Grained-Bank
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Fine-Grained-Bank.git
+[submodule "07-FAA-Queue"]
+	path = 07-FAA-Queue
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-FAA-Queue.git
+[submodule "08-Flat-Combining-Queue"]
+	path = 08-Flat-Combining-Queue
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Flat-Combining-Queue.git
+[submodule "09-Read-Write-Bank"]
+	path = 09-Read-Write-Bank
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Read-Write-Bank.git
+[submodule "10-MCS-Lock"]
+	path = 10-MCS-Lock
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-MCS-Lock.git
+[submodule "11-CASN"]
+	path = 11-CASN
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-CASN.git
+[submodule "12-Lock-Free-Bank"]
+	path = 12-Lock-Free-Bank
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Lock-Free-Bank.git
+[submodule "13-Removals-from-the-Middle"]
+	path = 13-Removals-from-the-Middle
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Removals-from-the-Middle.git
+[submodule "14-STM-Bank"]
+	path = 14-STM-Bank
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-STM-Bank.git
+[submodule "15-Hash-Table"]
+	path = 15-Hash-Table
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Hash-Table.git
+[submodule "15-Dynamic-Array"]
+	path = 15-Dynamic-Array
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Dynamic-Array.git
