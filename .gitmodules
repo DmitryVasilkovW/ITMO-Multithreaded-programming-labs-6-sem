@@ -16,3 +16,9 @@
 [submodule "Monotonic-Clock"]
 	path = Monotonic-Clock
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Monotonic-Clock.git
+[submodule "FAA-Queue"]
+	path = FAA-Queue
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-FAA-Queue.git
+[submodule "Flat-Combining-Queue"]
+	path = Flat-Combining-Queue
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Flat-Combining-Queue.git
