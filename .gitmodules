@@ -1,5 +1,5 @@
-[submodule "Possible-Executions-Analysis"]
-	path = Possible-Executions-Analysis
+[submodule "01-Possible-Executions-Analysis"]
+	path = 01-Possible-Executions-Analysis
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Possible-Executions-Analysis.git
 [submodule "Michael-Scott-Queue"]
 	path = Michael-Scott-Queue
