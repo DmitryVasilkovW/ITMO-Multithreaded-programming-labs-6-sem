@@ -1,33 +1,18 @@
+[submodule "06-Monotonic-Clock"]
+	path = 06-Monotonic-Clock
+	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Monotonic-Clock.git
 [submodule "01-Possible-Executions-Analysis"]
 	path = 01-Possible-Executions-Analysis
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Possible-Executions-Analysis.git
-[submodule "Michael-Scott-Queue"]
-	path = Michael-Scott-Queue
+[submodule "02-Michael-Scott-Queue"]
+	path = 02-Michael-Scott-Queue
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Michael-Scott-Queue.git
-[submodule "Treiber-Stack-with-Elimination"]
-	path = Treiber-Stack-with-Elimination
+[submodule "03-Treiber-Stack-with-Elimination"]
+	path = 03-Treiber-Stack-with-Elimination
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Treiber-Stack-with-Elimination.git
-[submodule "Lamport-Lock-Fail"]
-	path = Lamport-Lock-Fail
+[submodule "04-Lamport-Lock-Fail"]
+	path = 04-Lamport-Lock-Fail
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Lamport-Lock-Fail.git
-[submodule "Fine-Grained-Bank"]
-	path = Fine-Grained-Bank
+[submodule "05-Fine-Grained-Bank"]
+	path = 05-Fine-Grained-Bank
 	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Fine-Grained-Bank.git
-[submodule "Monotonic-Clock"]
-	path = Monotonic-Clock
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Monotonic-Clock.git
-[submodule "FAA-Queue"]
-	path = FAA-Queue
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-FAA-Queue.git
-[submodule "Flat-Combining-Queue"]
-	path = Flat-Combining-Queue
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Flat-Combining-Queue.git
-[submodule "Read-Write-Bank"]
-	path = Read-Write-Bank
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-Read-Write-Bank.git
-[submodule "MCS-Lock"]
-	path = MCS-Lock
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-MCS-Lock.git
-[submodule "CASN"]
-	path = CASN
-	url = git@github.com:DmitryVasilkovW/ITMO-Multithreaded-programming-CASN.git
